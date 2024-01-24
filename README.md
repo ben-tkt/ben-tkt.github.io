@@ -7,6 +7,7 @@ Engineering, Bachelors
 ### Process Engineer @ Pfizer
 - Did this
 - Did that
+
 ### Biotechnologies @ Amgen
 - Did a bunch of things
 - Did one project too
