@@ -4,7 +4,7 @@
 Engineering, Bachelors
 
 ## Work Experience
-###Process Engineer @ Pfizer
+### Process Engineer @ Pfizer
 - Did this
 - Did that
 ### Biotechnologies @ Amgen
