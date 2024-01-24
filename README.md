@@ -12,7 +12,7 @@ Biotechnologies @ Amgen
 - Did a bunch of things
 - Did one project too
 
-###Projects
+### Projects
 Set up Hadoop Cloud Ecosystem
 
 Created Recommendation System
