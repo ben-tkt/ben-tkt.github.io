@@ -16,3 +16,6 @@ Engineering, Bachelors
 ### Set up Hadoop Cloud Ecosystem
 ### Created Recommendation System
 
+## Certificates
+
+## Skills
