@@ -1,9 +1,11 @@
 # My portfolio
 
 ## Education
-- Data Science and Machine learning: Making Data-Driven Decisions | Massachusetts Institute of Technology (_Nov 2023_)
-- Bachelor of Engineering (Chemical Engineering) with Honours | National University of Singapore (_Jun 2020_)
-- Diploma in Chemical Engineering | Singapore Polytechnic (_Mar 2014_)
+Data Science and Machine learning: Making Data-Driven Decisions | Massachusetts Institute of Technology (_Nov 2023_)
+
+Bachelor of Engineering (Chemical Engineering) with Honours | National University of Singapore (_Jun 2020_)
+
+Diploma in Chemical Engineering | Singapore Polytechnic (_Mar 2014_)
 
 ## Certificates
 - R for Data Science: Analysis and Visualization (Linkedin Learning, 2024)
@@ -24,14 +26,14 @@
 - Change Control Management
 
 ## Work Experience
-- ### **Process Engineer (Alarms) | Pfizer Asia (_Apr 2023 - Dec 2023_)**
- -	Led a cross-functional team to revamp the GMP alarm management system.
- -	Defined User Requirement Specifications for batch and periodic alarm reviews.
- -	Implemented Statistical Process Control with control limits.
- -	Spearheaded alarm reduction initiatives across multiple departments, achieving a 56% reduction in nuisance alarms in the initial phase.
- -	Actively partook in continuous improvement projects.
+**Process Engineer (Alarms) | Pfizer Asia (_Apr 2023 - Dec 2023_)**
+-	Led a cross-functional team to revamp the GMP alarm management system.
+-	Defined User Requirement Specifications for batch and periodic alarm reviews.
+-	Implemented Statistical Process Control with control limits.
+-	Spearheaded alarm reduction initiatives across multiple departments, achieving a 56% reduction in nuisance alarms in the initial phase.
+-	Actively partook in continuous improvement projects.
 
-### **Biotechnologies @ Amgen**
+**Manufacturing Associate @ Amgen**
 -	Specialized in single-use technology for biologic downstream purification.
 -	Proficient in MES, LIMS, DeltaV, DCS, Control Studio, BOI, PI Vision, and Spotfire.
 -	Ensured zero product loss during manufacturing operations.
