@@ -60,21 +60,31 @@
 
 ## Projects
 **Set up Hadoop Cloud Ecosystem (_Dec 2023_)**
-- Configured a Hadoop Hive/Spark/Kafka architecture using AWS EC2 through a Linux terminal
+- Configured a functional Hadoop Hive/Spark/Kafka architecture using AWS EC2 through a Linux terminal
 
 **Hackathon Predictive Model (_Nov 2023_)**
-- Built a regresison model in python using Random Forest and Deep Learning algorithms
+- Built a regresison model in python using Random Forest and Deep Learning algorithms to predict the commuting experience of passengers on the Shinkansen.
 - Model achieved 80% accury on unseen data
 - Ranked 13th in global cohort of 45 teams
 
 **Recommendation System (_Nov 2023_)**
-- 
+- Built a product recommendation system using collaborative filtering and SVD Matrix Factorization in python to recommend products to target audiences in an online retail platform.
+- Model achieved an accuracy of 88.4% Recall and 85.4% Precision.
+- Key business insights and high value recommendations were proposed based on the analytics done.
 
+**Regression Models for Online Learning Platforms (_Oct 2023_)
+- Built a prediction machine using Random Forest and Decision Tree algorithms to predict the conversion probability of leads for an online learning platform (leads are audiences that showed interest in the programs)
+- Models were able to achieve a precision score of 83%, allowing business to focus their resources on clients that has an 83% likelihood to convert.
 
+**Exploratory Data Analysis on Foodhub business review (_Sep 2023_)**
+- Conducted in-depth EDA on Foodhub data using python
+- Delivered revenue-boosting insights through beautiful vizualizations and compelling storytelling
 
+**Weight Profile Prediction (_Jan 2020_)**
+- Built a predictive model that can project how a person's weight will vary through their life, according to their personality archetype.
+- Model was pioneered using mathematical formulas from chemical engineering and key principles from behavorial psychology in python language.
 
-
-
-
+**Chromatogram Data Extractor (_Jul 2019_)**
+- Automated the data extraction and transcription process from chromatograms using Excel VBA, reducing process time from 30 to 5 minutes.
 
 
