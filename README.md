@@ -14,7 +14,14 @@
 - MatLab (Mathworks, 2019)
 
 ## Skills
-- 
+- SQL
+- Python
+- R
+- Tableau
+- GMP Environment
+- Biologics Manufacturing Operations
+- Single Use Technology
+- Change Control Management
 
 ## Work Experience
 ### **Process Engineer (Alarms) | Pfizer Asia (_Apr 2023 - Dec 2023_)**
