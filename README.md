@@ -24,12 +24,12 @@
 - Change Control Management
 
 ## Work Experience
-### **Process Engineer (Alarms) | Pfizer Asia (_Apr 2023 - Dec 2023_)**
--	Led a cross-functional team to revamp the GMP alarm management system.
--	Defined User Requirement Specifications for batch and periodic alarm reviews.
--	Implemented Statistical Process Control with control limits.
--	Spearheaded alarm reduction initiatives across multiple departments, achieving a 56% reduction in nuisance alarms in the initial phase.
--	Actively partook in continuous improvement projects.
+- ### **Process Engineer (Alarms) | Pfizer Asia (_Apr 2023 - Dec 2023_)**
+ -	Led a cross-functional team to revamp the GMP alarm management system.
+ -	Defined User Requirement Specifications for batch and periodic alarm reviews.
+ -	Implemented Statistical Process Control with control limits.
+ -	Spearheaded alarm reduction initiatives across multiple departments, achieving a 56% reduction in nuisance alarms in the initial phase.
+ -	Actively partook in continuous improvement projects.
 
 ### **Biotechnologies @ Amgen**
 -	Specialized in single-use technology for biologic downstream purification.
