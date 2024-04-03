@@ -72,7 +72,7 @@
 - Model achieved an accuracy of 88.4% Recall and 85.4% Precision.
 - Key business insights and high value recommendations were proposed based on the analytics done.
 
-**Regression Models for Online Learning Platforms (_Oct 2023_)
+**Regression Models for Online Learning Platforms (_Oct 2023_)**
 - Built a prediction machine using Random Forest and Decision Tree algorithms to predict the conversion probability of leads for an online learning platform (leads are audiences that showed interest in the programs)
 - Models were able to achieve a precision score of 83%, allowing business to focus their resources on clients that has an 83% likelihood to convert.
 
