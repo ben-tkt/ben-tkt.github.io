@@ -1,4 +1,4 @@
-# My portfolio
+# Process Engineer | Data Scientist
 
 ## Education
 - **Bachelor of Engineering (Chemical Engineering) with Honours**, National University of Singapore (_Jun 2020_)
