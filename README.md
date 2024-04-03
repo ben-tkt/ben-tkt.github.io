@@ -1,9 +1,8 @@
 # My portfolio
 
 ## Education
-Bachelor of Engineering (Chemical Engineering) with Honours | National University of Singapore (_Jun 2020_)
-
-Diploma in Chemical Engineering | Singapore Polytechnic (_Mar 2014_)
+**Bachelor of Engineering (Chemical Engineering) with Honour**s, National University of Singapore (_Jun 2020_)
+**Diploma in Chemical Engineering**, Singapore Polytechnic (_Mar 2014_)
 
 ## Certificates
 - Data Science and Machine learning: Making Data-Driven Decisions (MIT, 2023)
