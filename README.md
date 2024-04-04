@@ -81,6 +81,7 @@
 ## Certificates
 **Data Science Certificates**
 - [Data Science and Machine learning: Making Data-Driven Decisions](https://verify.mygreatlearning.com/verify/TDPIYERW) (MIT, 2023)
+- [Python for Data Science](https://www.linkedin.com/learning/certificates/fe02d438550fd94d7208dd5fae455759dff467d7c567c1fcbf9b42d432aec02c) (Linkedin Learning, 2024)
 - [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024)
 - [Intermediate SQL](https://www.hackerrank.com/certificates/7f610acdd716) (HackerRank, 2024)
 - [Basic SQL](https://www.hackerrank.com/certificates/45eb453e945d) (HackerRank, 2024)
