@@ -77,6 +77,7 @@
 
 **Chromatogram Data Extractor (_Jul 2019_)**
 - Automated the data extraction and transcription process from chromatograms using Excel VBA, reducing process time from 30 to 5 minutes.
+
 ## Certificates
 **Data Science Certificates**
 - [Data Science and Machine learning: Making Data-Driven Decisions](https://verify.mygreatlearning.com/verify/TDPIYERW) (MIT, 2023)
