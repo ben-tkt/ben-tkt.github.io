@@ -77,8 +77,8 @@
 
 **Chromatogram Data Extractor (_Jul 2019_)**
 - Automated the data extraction and transcription process from chromatograms using Excel VBA, reducing process time from 30 to 5 minutes.
-
-## Data Science Certificates
+## Certificates
+**Data Science Certificates**
 - [Data Science and Machine learning: Making Data-Driven Decisions](https://verify.mygreatlearning.com/verify/TDPIYERW) (MIT, 2023)
 - [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024)
 - [Intermediate SQL](https://www.hackerrank.com/certificates/7f610acdd716) (HackerRank, 2024)
@@ -88,8 +88,7 @@
 - [R for Data Science: Analysis and Visualization](https://www.linkedin.com/learning/certificates/ef83b170701be9e09c1d2d915a4cb358708b53f50d11928b3369b059240b1b44) (Linkedin Learning, 2024)
 - [Mastering Big Data Analytics](https://verify.mygreatlearning.com/verify/BQAYLPHH) (Great Learning, 2024)
 
-
-## Engineering Certificates
+**Engineering Certificates**
 - [Follow GMP](https://drive.google.com/file/d/18_6ZU2gmKel1FyNh2cYx4XxcxJR8-G0x/view?usp=drive_link) (PACE, 2021)
 - [Apply Manufacturing Technologies in a Regulated Environment](https://drive.google.com/file/d/1Bbn16tb1-xuXmHmdAIJQra3l_6RCwRcv/view?usp=drive_link) (PACE, 2021)
 - [Operation of Inoculation and Fermentation Reactors](https://drive.google.com/file/d/1sKHuTVMpYLN6RYQ-k0UgknNYL-27gYZc/view?usp=drive_link) (PACE, 2021)
