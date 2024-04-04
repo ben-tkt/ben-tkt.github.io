@@ -1,7 +1,6 @@
 # Data Scientist
 
 ## Education
----------------------------------------------------------------------------------------------------------
 - **Bachelor of Engineering (Chemical Engineering) with Honours**, National University of Singapore (_Jun 2020_)
 - **Diploma in Chemical Engineering**, Singapore Polytechnic (_Mar 2014_)
 
@@ -16,7 +15,6 @@
 - Change Control Management
 
 ## Work Experience
----------------------------------------------------------------------------------------------------------
 **Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Dec 2023_)**
 -	Led a cross-functional team to revamp the GMP alarm management system.
 -	Defined User Requirement Specifications for batch and periodic alarm reviews.
@@ -52,7 +50,6 @@
 - Tactfully resolved administrative hurdles on a daily basis.
 
 ## Projects
----------------------------------------------------------------------------------------------------------
 **Set up Hadoop Cloud Ecosystem (_Dec 2023_)**
 - Configured a functional Hadoop Hive/Spark/Kafka architecture using AWS EC2 through a Linux terminal
 
