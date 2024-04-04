@@ -80,19 +80,27 @@
 
 ## Data Science Certificates
 - [Data Science and Machine learning: Making Data-Driven Decisions](https://verify.mygreatlearning.com/verify/TDPIYERW) (MIT, 2023)
-- [R for Data Science: Analysis and Visualization](https://www.linkedin.com/learning/certificates/ef83b170701be9e09c1d2d915a4cb358708b53f50d11928b3369b059240b1b44) (Linkedin Learning, 2024)
-- [Data Storytelling with Tableau](https://drive.google.com/file/d/1kyyqHP5lxpUzE7C7CkHjURbDmq_jzgND/view?usp=drive_link) (WSQ, 2024)
-- [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/2ed705fcdaea792cece7818434ff0795d58c31890025fb0b0a8835b487382fe6) (Linkedin Learning, 2024)
-- [Mastering Big Data Analytics](https://verify.mygreatlearning.com/verify/BQAYLPHH) (Great Learning, 2024)
 - [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024)
 - [Intermediate SQL](https://www.hackerrank.com/certificates/7f610acdd716) (HackerRank, 2024)
 - [Basic SQL](https://www.hackerrank.com/certificates/45eb453e945d) (HackerRank, 2024)
+- [Data Storytelling with Tableau](https://drive.google.com/file/d/1kyyqHP5lxpUzE7C7CkHjURbDmq_jzgND/view?usp=drive_link) (WSQ, 2024)
+- [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/2ed705fcdaea792cece7818434ff0795d58c31890025fb0b0a8835b487382fe6) (Linkedin Learning, 2024)
+- [R for Data Science: Analysis and Visualization](https://www.linkedin.com/learning/certificates/ef83b170701be9e09c1d2d915a4cb358708b53f50d11928b3369b059240b1b44) (Linkedin Learning, 2024)
+- [Mastering Big Data Analytics](https://verify.mygreatlearning.com/verify/BQAYLPHH) (Great Learning, 2024)
+
 
 ## Engineering Certificates
-- [Advanced Biopharmaceuticals Manufacturing] (PACE, 2021)
-- [MatLab] (Mathworks, 2019)
+- [Follow GMP](https://drive.google.com/file/d/18_6ZU2gmKel1FyNh2cYx4XxcxJR8-G0x/view?usp=drive_link) (PACE, 2021)
+- [Apply Manufacturing Technologies in a Regulated Environment](https://drive.google.com/file/d/1Bbn16tb1-xuXmHmdAIJQra3l_6RCwRcv/view?usp=drive_link) (PACE, 2021)
+- [Operation of Inoculation and Fermentation Reactors](https://drive.google.com/file/d/1sKHuTVMpYLN6RYQ-k0UgknNYL-27gYZc/view?usp=drive_link) (PACE, 2021)
+- [Operation of Tangential Flow Filtrators](https://drive.google.com/file/d/1PoVsHtIjJTjMM6GCaW_IaG75o9SzXLDT/view?usp=drive_link) (PACE, 2021)
+- [Operate in a Controlled Clean Room Environment](https://drive.google.com/file/d/1n_YCVyR6Ik5hFpQK1FAmZmIyk4jUsLQA/view?usp=drive_link) (PACE, 2021)
+- [Operate Chromatography Process](https://drive.google.com/file/d/1wkSOhaNv-Px_BktJcpxWRSgQ7vNshEgr/view?usp=drive_link) (PACE, 2021)
+- [Apply Safety in Process plants](https://drive.google.com/file/d/1PmKkjW3-Fx3dN9S2FhRkXTd7KkBFV0XU/view?usp=drive_link) (PACE,2021)
+- [Apply Process Quality Control Techniques](https://drive.google.com/file/d/1X2ku-HOuZAYix3dkcFaOpSxhesrl6bj9/view?usp=drive_link) (PACE, 2021)
+- [Apply Process Analytical Technology](https://drive.google.com/file/d/1xqNGV1t6_FnU4bwv_meihUCUQuzBlhs7/view?usp=drive_link) (PACE, 2021)
+- [Apply Continuous Process Improvement Techniques](https://drive.google.com/file/d/15CL33Q_938Wh33U_rBKVcJlb_rcmEKs4/view?usp=drive_link) (PACE, 2021)
+- [MatLab](https://drive.google.com/file/d/1sLLoSFDM5MWWrvle4a1YJMDm-sv85q37/view?usp=sharing) (Mathworks, 2019)
 
-## Engineering Certificates
-- [Follow GMP]() (PACE, 2021)
 
 
