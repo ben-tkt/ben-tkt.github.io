@@ -9,7 +9,7 @@
 - R for Data Science: Analysis and Visualization (Linkedin Learning, 2024)
 - Data Storytelling with Tableau (WSQ, 2024)
 - Tableau for Data Scientists (Linkedin Learning, 2024)
-- Advanced SQL (HackerRank, 2024) 
+- [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024) 
 - Advanced Biopharmaceuticals Manufacturing (PACE, 2021)
 - MatLab (Mathworks, 2019)
 
