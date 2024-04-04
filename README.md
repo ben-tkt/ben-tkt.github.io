@@ -78,13 +78,18 @@
 **Chromatogram Data Extractor (_Jul 2019_)**
 - Automated the data extraction and transcription process from chromatograms using Excel VBA, reducing process time from 30 to 5 minutes.
 
-## Certificates
-- Data Science and Machine learning: Making Data-Driven Decisions (MIT, 2023)
-- R for Data Science: Analysis and Visualization (Linkedin Learning, 2024)
-- Data Storytelling with Tableau (WSQ, 2024)
-- Tableau for Data Scientists (Linkedin Learning, 2024)
-- [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024) 
-- Advanced Biopharmaceuticals Manufacturing (PACE, 2021)
-- MatLab (Mathworks, 2019)
+## Data Science Certificates
+- [Data Science and Machine learning: Making Data-Driven Decisions] (MIT, 2023)
+- [R for Data Science: Analysis and Visualization] (Linkedin Learning, 2024)
+- [Data Storytelling with Tableau] (WSQ, 2024)
+- [Tableau for Data Scientists] (Linkedin Learning, 2024)
+- [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024)
+- [Intermediate SQL](https://www.hackerrank.com/certificates/7f610acdd716) (HackerRank, 2024)
+- [Basic SQL](https://www.hackerrank.com/certificates/45eb453e945d) (HackerRank, 2024)
+- [Advanced Biopharmaceuticals Manufacturing] (PACE, 2021)
+- [MatLab] (Mathworks, 2019)
+
+## Engineering Certificates
+- [Follow GMP]([https://app.box.com/file/1491063887006](https://app.box.com/s/y6gaktm8im0smzhlt6409h5r2j7ce27a)) (PACE, 2021)
 
 
