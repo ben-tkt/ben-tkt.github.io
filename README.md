@@ -1,14 +1,19 @@
 # Data Scientist
+SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 
 ## Education
 - **Bachelor of Engineering (Chemical Engineering) with Honours**, National University of Singapore (_Jun 2020_)
 - **Diploma in Chemical Engineering**, Singapore Polytechnic (_Mar 2014_)
 
 ## Skills
-- SQL
-- Python
-- R
-- Tableau
+- Data & Statistical Analytics
+- Data Visualization & Storytelling
+- Clustering Algorithms
+- Dimensionality Reduction
+- Regression Models
+- Deep Learning Neural Networks
+- Recommendation Systems
+- Big Data Architecture
 - GMP Environment
 - Biologics Manufacturing Operations
 - Single Use Technology
