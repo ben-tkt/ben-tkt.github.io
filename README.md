@@ -60,7 +60,7 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 
 **Hackathon Predictive Model (_Nov 2023_)**
 - Built a regresison model in python using Random Forest and Deep Learning algorithms to predict the commuting experience of passengers on the Shinkansen.
-- Model achieved 80% accury on unseen data
+- Model achieved 80% accuracy on unseen data
 - Ranked 13th in global cohort of 45 teams
 
 **Recommendation System (_Nov 2023_)**
