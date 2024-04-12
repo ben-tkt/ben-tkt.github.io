@@ -33,7 +33,7 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 -	Ensured zero product loss during manufacturing operations.
 -	Collaborated with subject matter experts on an OPEX project, reducing monthly operational costs by over $100,000.
 
-**Research Apprentice | Duke-NUS Medical School (_May 2020 - Nov 2022_)**
+**Research Apprentice | Duke-NUS Medical School (_May 2020 - Nov 2020_)**
 - Managed multiple cell lines for novel research on Emerging Infectious Diseases.
 - Conducted a wide array of biological assays on a daily basis:
  - Modified Lowry Protein Assay
