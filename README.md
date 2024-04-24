@@ -55,13 +55,18 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 - Tactfully resolved administrative hurdles on a daily basis.
 
 ## Projects
-**Set up Hadoop Cloud Ecosystem (_Dec 2023_)**
-- Configured a functional Hadoop Hive/Spark/Kafka architecture using AWS EC2 through a Linux terminal
+**Hackathon - Hyperparameter Tuning in Neural Networks (_Apr 2024_)**
+- Built a deep learning neural network to predict survival rate of passengers on the Titanic.
+- Utilized RandomSearchCV, GridSearchCV, Dask Tuner and Keras Tuner to optimize hyperparameters of a deep learning model.
+- Achieved a model accuracy of 83% on unseen data.
 
-**Hackathon Predictive Model (_Nov 2023_)**
-- Built a regresison model in python using Random Forest and Deep Learning algorithms to predict the commuting experience of passengers on the Shinkansen.
-- Model achieved 80% accuracy on unseen data
-- Ranked 13th in global cohort of 45 teams
+**Set up Hadoop Cloud Ecosystem (_Dec 2023_)**
+- Configured a functional Hadoop Hive/Spark/Kafka architecture using AWS EC2 through a Linux terminal.
+
+**Hackathon - Predictive Models (_Nov 2023_)**
+- Built a regression model in python using Random Forest and Deep Learning algorithms to predict the commuting experience of passengers on the Shinkansen.
+- Model achieved 80% accuracy on unseen data.
+- Ranked 13th in global cohort of 45 teams.
 
 **Recommendation System (_Nov 2023_)**
 - Built a product recommendation system using collaborative filtering and SVD Matrix Factorization in python to recommend products to target audiences in an online retail platform.
@@ -69,12 +74,12 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 - Key business insights and high value recommendations were proposed based on the analytics done.
 
 **Regression Models for Online Learning Platforms (_Oct 2023_)**
-- Built a prediction machine using Random Forest and Decision Tree algorithms to predict the conversion probability of leads for an online learning platform (leads are audiences that showed interest in the programs)
+- Built a prediction machine using Random Forest and Decision Tree algorithms to predict the conversion probability of leads for an online learning platform (leads are audiences that showed interest in the programs).
 - Models were able to achieve a precision score of 83%, allowing business to focus their resources on clients that has an 83% likelihood to convert.
 
 **Exploratory Data Analysis on Foodhub business review (_Sep 2023_)**
-- Conducted in-depth EDA on Foodhub data using python
-- Delivered revenue-boosting insights through beautiful vizualizations and compelling storytelling
+- Conducted in-depth EDA on Foodhub data using python.
+- Delivered revenue-boosting insights through beautiful vizualizations and compelling storytelling.
 
 **Weight Profile Prediction (_Jan 2020_)**
 - Built a predictive model that can project how a person's weight will vary through their life, according to their personality archetype.
@@ -86,7 +91,9 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 ## Certificates
 **Data Science Certificates**
 - [Data Science and Machine learning: Making Data-Driven Decisions](https://verify.mygreatlearning.com/verify/TDPIYERW) (MIT, 2023)
+- [Python Essential Training](https://www.linkedin.com/learning/certificates/f965773105cab36d51c5a92ad36f0590de829694fcd66c5000655f3e4d87a22f) (Linkedin Learning, 2024)
 - [Python for Data Science](https://www.linkedin.com/learning/certificates/fe02d438550fd94d7208dd5fae455759dff467d7c567c1fcbf9b42d432aec02c) (Linkedin Learning, 2024)
+- [Python for Data Science and Machine Learning Essential Learning](https://www.linkedin.com/learning/certificates/4e055012810074eaa415c61ccbfd796240ece465277c74ddbed2f5091c7e1759) (Linkedin Learning,2024)
 - [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024)
 - [Intermediate SQL](https://www.hackerrank.com/certificates/7f610acdd716) (HackerRank, 2024)
 - [Basic SQL](https://www.hackerrank.com/certificates/45eb453e945d) (HackerRank, 2024)
