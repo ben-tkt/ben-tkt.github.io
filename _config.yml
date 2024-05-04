@@ -8,3 +8,5 @@ description: >
   With a passion in leveraging data to make drive insights and solve complex problems, I am diving deep into the world of data science.
 show_downloads: true
 theme: jekyll-theme-minimal
+social_links:
+  - { platform: Tableau,  user_url: "https://public.tableau.com/app/profile/ben.tan2827/vizzes" }
