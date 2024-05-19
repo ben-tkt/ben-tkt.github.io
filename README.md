@@ -55,6 +55,10 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 - Tactfully resolved administrative hurdles on a daily basis.
 
 ## Projects
+**EDA with SQL and Tableau for an Emergency Response Department (_May 2024_)**
+- Utilized SQL to explore data and provided critical business insights for management team.
+- Built interactive and beautiful [vizualizations](https://public.tableau.com/app/profile/ben.tan2827/viz/EDAinEmergencyDepartment/EDAinED) using Tableau Public on EDA findings.
+
 **Hackathon - Hyperparameter Tuning in Neural Networks (_Apr 2024_)**
 - Built a deep learning neural network to predict survival rate of passengers on the Titanic.
 - Utilized RandomSearchCV, GridSearchCV, Dask Tuner and Keras Tuner to optimize hyperparameters of a deep learning model.
