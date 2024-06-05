@@ -98,6 +98,7 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 - [Python Essential Training](https://www.linkedin.com/learning/certificates/f965773105cab36d51c5a92ad36f0590de829694fcd66c5000655f3e4d87a22f) (Linkedin Learning, 2024)
 - [Python for Data Science](https://www.linkedin.com/learning/certificates/fe02d438550fd94d7208dd5fae455759dff467d7c567c1fcbf9b42d432aec02c) (Linkedin Learning, 2024)
 - [Python for Data Science and Machine Learning Essential Learning](https://www.linkedin.com/learning/certificates/4e055012810074eaa415c61ccbfd796240ece465277c74ddbed2f5091c7e1759) (Linkedin Learning,2024)
+- [Building Recurrent Neural Networks with Python Keras](https://www.linkedin.com/learning/certificates/6b0fb4a752ebfb6e9ffb6d932eb16051daa34c5089327d6610b5efa5e6f71633) (Linkedin Learning, 2024)
 - [Advanced SQL](https://www.hackerrank.com/certificates/43ef2170bbf7) (HackerRank, 2024)
 - [Intermediate SQL](https://www.hackerrank.com/certificates/7f610acdd716) (HackerRank, 2024)
 - [Basic SQL](https://www.hackerrank.com/certificates/45eb453e945d) (HackerRank, 2024)
