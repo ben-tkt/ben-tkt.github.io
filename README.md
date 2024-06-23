@@ -1,5 +1,5 @@
 # Data Scientist
-SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
+SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka, Rockset Database
 
 ## Education
 - **Bachelor of Engineering (Chemical Engineering) with Honours**, National University of Singapore (_Jun 2020_)
@@ -20,6 +20,7 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 - Change Control Management
 
 ## Work Experience
+
 **Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Dec 2023_)**
 -	Led a cross-functional team to revamp the GMP alarm management system.
 -	Defined User Requirement Specifications for batch and periodic alarm reviews.
@@ -106,6 +107,7 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka
 - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/2ed705fcdaea792cece7818434ff0795d58c31890025fb0b0a8835b487382fe6) (Linkedin Learning, 2024)
 - [R for Data Science: Analysis and Visualization](https://www.linkedin.com/learning/certificates/ef83b170701be9e09c1d2d915a4cb358708b53f50d11928b3369b059240b1b44) (Linkedin Learning, 2024)
 - [Mastering Big Data Analytics](https://verify.mygreatlearning.com/verify/BQAYLPHH) (Great Learning, 2024)
+- [Git Essential Training](https://www.linkedin.com/learning/certificates/812040ea0730c7deb5689d1a6dbcd57c224d3cef87bf679319fff2210702c987) (Linked Learning, 2024)
 
 **Engineering Certificates**
 - [Follow GMP](https://drive.google.com/file/d/18_6ZU2gmKel1FyNh2cYx4XxcxJR8-G0x/view?usp=drive_link) (PACE, 2021)
