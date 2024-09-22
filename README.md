@@ -21,7 +21,14 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka, Rockset Database
 
 ## Work Experience
 
-**Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Dec 2023_)**
+**Data Scientist | Daikai Engineering Pte Ltd (_Jun 2024 - Present_)**
+-	Led ETL processes using Python and MySQL, integrating data into Rockset Database.
+-	Conducted EDA on multi-variate time series, enhancing feature engineering.
+-	Applied time-based clustering and semi-supervised learning to refine data annotation.
+-	Developed scalable Autoencoder models for anomaly detection across engines and vessels.
+-	Provide IT support and created Proof of Concept demo video to aid sales efforts.
+
+**Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Apr 2023_)**
 -	Led a cross-functional team to revamp the GMP alarm management system.
 -	Defined User Requirement Specifications for batch and periodic alarm reviews.
 -	Implemented Statistical Process Control with control limits.
