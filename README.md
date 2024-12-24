@@ -1,5 +1,5 @@
-# Data Scientist
-SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka, Rockset Database
+# IT Specialist
+SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka,Rockset Database
 
 ## Education
 - **Bachelor of Engineering (Chemical Engineering) with Honours**, National University of Singapore (_Jun 2020_)
@@ -21,12 +21,12 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka, Rockset Database
 
 ## Work Experience
 
-**Data Scientist | Daikai Engineering Pte Ltd (_Jun 2024 - Present_)**
--	Led ETL processes using Python and MySQL, integrating data into Rockset Database.
+**IT Specialist | Daikai Engineering Pte Ltd (_Jun 2024 - Present_)**
+-	Provide comprehensive IT support, addressing hardware, software, network, server, and cybersecurity challenges to ensure smooth operations.
 -	Conducted EDA on multi-variate time series, enhancing feature engineering.
 -	Applied time-based clustering and semi-supervised learning to refine data annotation.
 -	Developed scalable Autoencoder models for anomaly detection across engines and vessels.
--	Provide IT support and created Proof of Concept demo video to aid sales efforts.
+-	Evaluate & deploy platforms for project management, data warehousing and cybersecurity to optimize infrastructure scalability and collaboration.
 
 **Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Apr 2023_)**
 -	Led a cross-functional team to revamp the GMP alarm management system.
@@ -63,6 +63,11 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka, Rockset Database
 - Tactfully resolved administrative hurdles on a daily basis.
 
 ## Projects
+**Anomaly Detection in Maritime Engines (_Aug 2024 - Present_)**
+- Conducted Exploratory Data Analysis (EDA) on complex engine datasets to identify patterns and inform anomaly detection strategies.
+- Developing advanced anomaly detection models using techniques such as hierarchical clustering, label propagation, and LSTM-based autoencoders.
+- Pioneering innovative methodologies to improve predictive maintenance and operational efficiency.
+
 **EDA with SQL and Tableau for an Emergency Response Department (_May 2024_)**
 - Utilized SQL to explore data and provided critical business insights for management team.
 - Built interactive and beautiful [vizualizations](https://public.tableau.com/app/profile/ben.tan2827/viz/EDAinEmergencyDepartment/EDAinED) using Tableau Public on EDA findings.
