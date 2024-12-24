@@ -44,12 +44,12 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka,Rockset Database
 **Research Apprentice | Duke-NUS Medical School (_May 2020 - Nov 2020_)**
 - Managed multiple cell lines for novel research on Emerging Infectious Diseases.
 - Conducted a wide array of biological assays on a daily basis:
- - Modified Lowry Protein Assay
- - PBMC Extraction
- - RNA Extraction
- - ELISA
- - SDS-PAGE
- - Polymerase Chain Reactions
+  - Modified Lowry Protein Assay
+  - PBMC Extraction
+  - RNA Extraction
+  - ELISA
+  - SDS-PAGE
+  - Polymerase Chain Reactions
 
 **Technical Executive Intern | TUV SUD PSB Pte Ltd (_May 2019 - Aug 2019_)**
 - Facilitated the certification of 10+ chemical products.
