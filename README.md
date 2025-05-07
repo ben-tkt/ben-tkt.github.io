@@ -28,7 +28,7 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka,Rockset Database
 -	Developed scalable Autoencoder models for anomaly detection across engines and vessels.
 -	Evaluate & deploy platforms for project management, data warehousing and cybersecurity to optimize infrastructure scalability and collaboration.
 
-**Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Apr 2023_)**
+**Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Apr 2024_)**
 -	Led a cross-functional team to revamp the GMP alarm management system.
 -	Defined User Requirement Specifications for batch and periodic alarm reviews.
 -	Implemented Statistical Process Control with control limits.
