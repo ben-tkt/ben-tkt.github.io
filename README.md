@@ -22,11 +22,14 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka,Rockset Database
 ## Work Experience
 
 **IT Specialist | Daikai Engineering Pte Ltd (_Jun 2024 - Present_)**
+-	Lead ETL processes using Python and MySQL, integrating data into Oracle Database.
+-	Conducted in-depth Exploratory Data Analysis (EDA) on multi-variate time series, enhancing feature engineering.
+-	Applied time-based clustering and graph-based semi-supervised learning to refine data annotation.
+-	Developed LSTM Autoencoder models for anomaly detection across engines and vessels.
+-	Authored and implemented company-wide PDPA policy.
+-	Customized Kanban project management system using Kintone to enhance team coordination and efficiency
 -	Provide comprehensive IT support, addressing hardware, software, network, server, and cybersecurity challenges to ensure smooth operations.
--	Conducted EDA on multi-variate time series, enhancing feature engineering.
--	Applied time-based clustering and semi-supervised learning to refine data annotation.
--	Developed scalable Autoencoder models for anomaly detection across engines and vessels.
--	Evaluate & deploy platforms for project management, data warehousing and cybersecurity to optimize infrastructure scalability and collaboration.
+-	Initiated ad-hoc projects to aid sales efforts and improve workflow efficiency.
 
 **Process Engineer (Alarms) | Pfizer Asia Pte Ltd (_Apr 2023 - Apr 2024_)**
 -	Led a cross-functional team to revamp the GMP alarm management system.
@@ -119,7 +122,8 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka,Rockset Database
 - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/2ed705fcdaea792cece7818434ff0795d58c31890025fb0b0a8835b487382fe6) (Linkedin Learning, 2024)
 - [R for Data Science: Analysis and Visualization](https://www.linkedin.com/learning/certificates/ef83b170701be9e09c1d2d915a4cb358708b53f50d11928b3369b059240b1b44) (Linkedin Learning, 2024)
 - [Mastering Big Data Analytics](https://verify.mygreatlearning.com/verify/BQAYLPHH) (Great Learning, 2024)
-- [Git Essential Training](https://www.linkedin.com/learning/certificates/812040ea0730c7deb5689d1a6dbcd57c224d3cef87bf679319fff2210702c987) (Linked Learning, 2024)
+- [Git Essential Training](https://www.linkedin.com/learning/certificates/812040ea0730c7deb5689d1a6dbcd57c224d3cef87bf679319fff2210702c987) (Linkedin Learning, 2024)
+- [Reinforcement Learning Foundations](https://www.linkedin.com/learning/certificates/bd6bbb6776af854bb3072a8ef2ff915a6107b80c69e56d650b0350c073ddb0b8?trk=share_certificate) (Linkedin Learning, 2025)
 
 **Engineering Certificates**
 - [Follow GMP](https://drive.google.com/file/d/18_6ZU2gmKel1FyNh2cYx4XxcxJR8-G0x/view?usp=drive_link) (PACE, 2021)
