@@ -1,4 +1,4 @@
-# IT Specialist
+# Data Scientist
 SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka,Rockset Database
 
 ## Education
@@ -21,7 +21,7 @@ SQL,Python,Tableau,R,Hadoop Hive/Spark/Kafka,Rockset Database
 
 ## Work Experience
 
-**IT Specialist | Daikai Engineering Pte Ltd (_Jun 2024 - Present_)**
+**Data Scientist | Daikai Engineering Pte Ltd (_Jun 2024 - Present_)**
 -	Lead ETL processes using Python and MySQL, integrating data into Oracle Database.
 -	Conducted in-depth Exploratory Data Analysis (EDA) on multi-variate time series, enhancing feature engineering.
 -	Applied time-based clustering and graph-based semi-supervised learning to refine data annotation.
